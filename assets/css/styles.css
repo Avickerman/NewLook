@@ -1,6 +1,10 @@
 .head {
     padding: 50px;
+    color: black;
+    background-color: white;
 }
-.foot {
-
+.head2 {
+    padding: 10px;
+    color: black;
+    background-color: white;
 }
