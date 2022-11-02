@@ -1,17 +1,6 @@
 .head {
-    padding: 10px;
-}
-
-.flex {
-    display: flex;min-height: 300px;
-}
-
-.side {
-    flex-grow: 1;
-}
-.main {
-    flex-grow: 6;
+    padding: 50px;
 }
 .foot {
-    
+
 }
